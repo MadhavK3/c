@@ -1,0 +1,20 @@
+Enter number of cities: 4
+Enter maximum delivery time: 90
+
+Enter distance matrix (-1 for no road):
+0 10 15 20
+10 0 35 25
+15 35 0 30
+20 25 30 0
+
+Enter fuel cost per km matrix:
+0 1 2 3
+1 0 1 2
+2 1 0 1.5
+3 2 1.5 0
+
+Enter travel time matrix (-1 for no road):
+0 10 15 20
+10 0 35 25
+15 35 0 30
+20 25 30 0
